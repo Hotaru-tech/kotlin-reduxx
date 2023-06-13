@@ -4,14 +4,6 @@
 
 
     {
-        "id" : 1,
-        "nama" : "Muhammad Hafiz",
-        "nim" : "2110817210022",
-        "alamat" : "Jl.Pembangunan 1,Banjarmasin",
-        "deskripsi" : "Saya adalah seorang mahasiswa semester 4 pada Program Studi Teknologi Informasi di Universitas Lambung Mangkurat.",
-        "url" : "https://i.ibb.co/tzzcw3X/foto.jpg"
-    },
-    {
         "id" : 2,
         "nama" : "Andri Rahmadani",
         "nim" : "21108171100008",
