@@ -4,7 +4,7 @@
 
 
     {
-        "userId" : 1,
+        "id" : 1,
         "nama" : "Muhammad Hafiz",
         "nim" : "2110817210022",
         "alamat" : "Jl.Pembangunan 1,Banjarmasin",
@@ -12,7 +12,7 @@
         "url" : "https://i.ibb.co/tzzcw3X/foto.jpg"
     },
     {
-        "userId" : 2,
+        "id" : 2,
         "nama" : "Andri Rahmadani",
         "nim" : "21108171100008",
         "alamat" : "Jl.Sutoyo,Banjarmasin",
@@ -21,7 +21,7 @@
 
     },
     {
-        "userId" : 3,
+        "id" : 3,
         "nama" : "Fajar Hidayat",
         "nim" : "2110817310009",
         "alamat" : "Jl.Tanjung Raya,Banjarmasin",
