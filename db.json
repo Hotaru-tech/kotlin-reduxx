@@ -27,7 +27,30 @@
         "alamat" : "Jl.Tanjung Raya,Banjarmasin",
         "deskripsi" : "Halo, nama saya Fajar Hidayat. Saya adalah mahasiswa Teknologi Informasi tahun kedua dari Universitas Lambung Mangkurat. Saya memulai pengalaman kepemimpinan saya selama tahun kedua kuliah. Di komunitas saya, saya bertanggung jawab memimpin kelas praktikum Pengembangan skill pada salah satu mata kuliah di kampus saya yaitu di bidang pemrograman web dasar, yang bertanggung jawab untuk pembelajaran tersebut.",
         "url" : "https://i.postimg.cc/GhhSfVsK/foto3x4.jpg"
+    },
+    {
+        "id" : 4,
+        "nama" : "Annisa Maghfirah",
+        "nim" : "2110817220002",
+        "alamat" : "Jl.S.Parman,Banjarmasin",
+        "deskripsi" : "Halo, nama saya Annisa Maghfirah. Saya adalah mahasiswa Teknologi Informasi tahun kedua dari Universitas Lambung Mangkurat. Saya memulai pengalaman kepemimpinan saya selama tahun kedua kuliah. Di komunitas saya, saya bertanggung jawab memimpin kelas praktikum Pengembangan skill pada salah satu mata kuliah di kampus saya yaitu di bidang pemrograman web dasar, yang bertanggung jawab untuk pembelajaran tersebut.",
+        "url" : "https://i.postimg.cc/ZnH2b8hy/Foto-3-4.jpg"
+    },
+    {
+        "id" : 5,
+        "nama" : "M. Renald Abdi",
+        "nim" : "2110817210005",
+        "alamat" : "Jl.rumah,Banjarbaru",
+        "deskripsi" : "Halo, nama saya Fajar Hidayat. Saya adalah mahasiswa Teknologi Informasi tahun kedua dari Universitas Lambung Mangkurat. Saya memulai pengalaman kepemimpinan saya selama tahun kedua kuliah. Di komunitas saya, saya bertanggung jawab memimpin kelas praktikum Pengembangan skill pada salah satu mata kuliah di kampus saya yaitu di bidang pemrograman web dasar, yang bertanggung jawab untuk pembelajaran tersebut.",
+        "url" : "https://i.postimg.cc/Yq396zyZ/PASFOTO.jpg"
+    },
+    {
+        "id" : 6,
+        "nama" : "M. Fadhil Haikal Wardani",
+        "nim" : "2110817310015",
+        "alamat" : "Jl.Pramuka,Banjarmasin",
+        "deskripsi" : "Halo, nama saya Fajar Hidayat. Saya adalah mahasiswa Teknologi Informasi tahun kedua dari Universitas Lambung Mangkurat. Saya memulai pengalaman kepemimpinan saya selama tahun kedua kuliah. Di komunitas saya, saya bertanggung jawab memimpin kelas praktikum Pengembangan skill pada salah satu mata kuliah di kampus saya yaitu di bidang pemrograman web dasar, yang bertanggung jawab untuk pembelajaran tersebut.",
+        "url" : "https://i.postimg.cc/BQx3XGnz/Whats-App-Image-2022-04-04-at-11-07-04.jpg"
     }
-
 ]
 }
