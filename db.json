@@ -1,0 +1,33 @@
+
+{
+    "users" : [
+
+
+    {
+        "userId" : 1,
+        "nama" : "Muhammad Hafiz",
+        "nim" : "2110817210022",
+        "alamat" : "Jl.Pembangunan 1,Banjarmasin",
+        "deskripsi" : "Saya adalah seorang mahasiswa semester 4 pada Program Studi Teknologi Informasi di Universitas Lambung Mangkurat.",
+        "url" : "https://i.ibb.co/tzzcw3X/foto.jpg"
+    },
+    {
+        "userId" : 2,
+        "nama" : "Andri Rahmadani",
+        "nim" : "21108171100008",
+        "alamat" : "Jl.Sutoyo,Banjarmasin",
+        "deskripsi" : "Saya adalah seorang desainer yang berbakat dan bersemangat dalam menciptakan desain UI (User Interface) yang menarik dan poster yang efektif. Dalam pekerjaan saya, saya menggabungkan elemen-elemen desain seperti warna, tipografi, komposisi, dan grafis untuk menciptakan tampilan yang menarik dan berfungsi baik. Saya memiliki kemampuan untuk mengkomunikasikan pesan melalui desain saya dan senang menggali inspirasi dari berbagai sumber serta mengikuti tren desain terkini. Saya berusaha untuk menciptakan pengalaman visual yang memikat dan meninggalkan kesan yang mendalam pada para pengamatnya. Saya percaya bahwa desain yang kuat dapat membawa dampak positif dan meningkatkan pengalaman pengguna.",
+        "url" : "https://i.ibb.co/80xyCsc/Andri-2.jpg"
+
+    },
+    {
+        "userId" : 3,
+        "nama" : "Fajar Hidayat",
+        "nim" : "2110817310009",
+        "alamat" : "Jl.Tanjung Raya,Banjarmasin",
+        "deskripsi" : "Halo, nama saya Fajar Hidayat. Saya adalah mahasiswa Teknologi Informasi tahun kedua dari Universitas Lambung Mangkurat. Saya memulai pengalaman kepemimpinan saya selama tahun kedua kuliah. Di komunitas saya, saya bertanggung jawab memimpin kelas praktikum Pengembangan skill pada salah satu mata kuliah di kampus saya yaitu di bidang pemrograman web dasar, yang bertanggung jawab untuk pembelajaran tersebut.",
+        "url" : "https://i.postimg.cc/GhhSfVsK/foto3x4.jpg"
+    }
+
+]
+}
